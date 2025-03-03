@@ -1,5 +1,5 @@
 body {
-    overflow-x: hidden;
+  overflow-x: hidden;
 }
 
 #firstImage {
@@ -10,24 +10,51 @@ body {
 }
 
 #secondTask {
-  margin-top: 400px;
+  margin: 400px;
   width: 20%;
+  color: red;
+  background-color: lightgreen;
 }
 
 #thirdTask {
   width: 30%;
-  height: 40%;
+  height: 500px;
+  border-radius: 20%;
 }
 
-#thirdTask1 {
-    margin-left: 90px;
-    height: 400px;
+#athirdTask {
+  margin-left: 90px;
+  height: 200px;
+  width: 200px;
+  border-radius: 100px;
 }
 
 #fourthTask {
-    margin-left: 50%;
+  color: red;
+  background-color: lightgreen;
+  margin-top: 200px;
+  margin-left: 50%;
+  width: 180px;
 }
 
+.buttons {
+  background-color: purple;
+  color: white;
+}
 
+.text {
+  color: red;
+  width: 19%;
+  margin-left: 15%;
+  background-color: lightgreen;
+  font-size: 40px;
+}
 
-
+.btext {
+  color: red;
+  background-color: lightgreen;
+  margin-left: 15%;
+  width: 19%;
+  text-align: center;
+  margin-top: 50px;
+}
